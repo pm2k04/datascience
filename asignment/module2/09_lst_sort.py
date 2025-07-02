@@ -1,3 +1,5 @@
 number=input("enter your number ")
-number.sort()
-print(number)
+digit=list(number)
+digit.sort()
+sorted_number=''.join(digit)
+print("sorted_number",sorted_number)
