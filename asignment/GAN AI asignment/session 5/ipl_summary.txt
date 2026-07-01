@@ -1,0 +1,22 @@
+Task 1: IPL News Article Summarization
+Step 1: Find or Create an IPL News Article
+Original Article (3 Paragraphs)
+
+Paragraph 1:
+The Indian Premier League (IPL) 2025 season witnessed intense competition among all franchises.
+ Teams like Mumbai Indians, Chennai Super Kings, and Royal Challengers Bengaluru showcased outstanding performances throughout the tournament. 
+ Fans across the globe followed every match with great excitement.
+
+Paragraph 2:
+Several young players emerged as stars during the season. Their impressive batting and bowling performances helped their teams secure crucial victories. The tournament also featured several last-over thrillers that kept audiences engaged.
+
+Paragraph 3:
+The IPL continued to strengthen its position as one of the world's most popular cricket leagues. With record-breaking viewership and increased digital engagement, the tournament demonstrated its global appeal.
+
+Step 2: Use ChatGPT Prompt
+
+Smmarize the following IPL news article into one short paragraph.
+
+Step 3: ChatGPT Summary
+
+The IPL 2025 season featured exciting matches, outstanding performances from both experienced and young players, and thrilling finishes, further strengthening the league's global popularity through record viewership and fan engagement.
